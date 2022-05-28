@@ -12,7 +12,7 @@
 
         <p class="subheading font-weight-regular">
           ⚽ Ce site est destiné au club de foot de Pont-Saint-Vincent ⚽
-          <br>please join our online
+          <br>
            Vous pouvez nous retrouver dès à présent sur
           <a href="https://www.facebook.com/fcpsv54/" target="_blank">Facebook</a>
         </p>
