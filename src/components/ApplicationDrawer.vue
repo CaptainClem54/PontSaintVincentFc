@@ -28,6 +28,7 @@
                         <v-list-item-title>{{ item.title }}</v-list-item-title>
                     </v-list-item-content>
                 </v-list-item>
+                <router-link to="/about">About</router-link>
             </v-list>
 
         </v-navigation-drawer>
